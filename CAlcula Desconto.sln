@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAlcula Desconto", "CAlcula Desconto\CAlcula Desconto.csproj", "{AB268141-D914-415C-A7B5-B3F8DB9D23E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB268141-D914-415C-A7B5-B3F8DB9D23E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB268141-D914-415C-A7B5-B3F8DB9D23E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB268141-D914-415C-A7B5-B3F8DB9D23E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB268141-D914-415C-A7B5-B3F8DB9D23E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8285DDD-F64B-472F-8ECC-A2D9D3E72DE9}
+	EndGlobalSection
+EndGlobal
